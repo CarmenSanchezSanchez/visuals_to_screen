@@ -69,7 +69,7 @@ Experimentar con la repetición de formas y la modificación de su velocidad, fr
 
 ---
 
-### 04. Processing — lerpColor()
+### 04. Processing - lerpColor()
 
 **Técnicas:** Interpolación y transición cromática.
 
