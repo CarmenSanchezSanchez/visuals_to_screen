@@ -1,43 +1,84 @@
+
 # Visuals to Screen
-Projecte de disseny generatiu que consisteix en la creació de tres peces audiovisuals de disseny en moviment, 
-desenvolupades a partir d'un mateix sistema de programació, per a la secció Disseny en Moviment del festival ANIMALCOI 2026.
 
-## 01. Conceptualització
-El projecte parteix de la voluntat de representar el **caràcter creatiu, dinàmic i experimental** d'ANIMALCOI mitjançant la programació creativa.
-En lloc de recórrer a elements figuratius de la identitat del festival, es planteja **explorar conceptes abstractes** relacionats amb l'animació i les seues possibilitats expressives.
+Projecte de disseny generatiu que consisteix en la creació de tres peces audiovisuals de disseny en moviment, desenvolupades a partir d'un mateix sistema de programació, per a la secció *Disseny en Moviment* del festival ANIMALCOI 2026.
 
-### Conceptes principals
+## 01. Proposta d'experimentació
 
-**Moviment.**
-Explorar trajectòries, velocitats i ritmes que generen composicions visuals dinàmiques.
+Es planteja experimentar amb **formes circulars en moviment que varien de grandària, posició i color** mitjançant la programació creativa amb Processing.
 
-**Transformació.**
-Experimentar amb la deformació, fragmentació i metamorfosi dels elements gràfics.
+La investigació se centrarà en la transformació de les formes geomètriques i la seua superposició, explorant com les variacions d'escala i les interaccions cromàtiques poden generar diferents composicions visuals.
 
-**Diversitat.**
-Representar diferents llenguatges visuals mitjançant variacions d'un mateix sistema generatiu.mposicions generades a partir d'un mateix sistema.
+## 02. Investigació tècnica
 
-## 02. Experimentació visual
+Les principals tècniques que es planteja explorar són:
 
-A partir dels conceptes definits, es planteja investigar diferents recursos gràfics i comportaments visuals mitjançant la programació creativa.
-Les principals línies d'experimentació són:
+**Moviment i variació d'escala.**  
+Experimentar amb formes circulars que es desplacen, s'expandixen i es contrauen mitjançant funcions matemàtiques.
 
-- **Moviment:** desplaçament, rotació, oscil·lació i acceleració.
-- **Forma:** geometria, deformació, fragmentació i transformació.
-- **Color:** contrastos, transicions i variacions cromàtiques.
-- **Ritme:** repetició, seqüències i patrons visuals.
-- **Composició:** distribució, escala, superposició i profunditat.
+**Superposició de formes.**  
+Investigar la intersecció de cercles de diferents grandàries i posicions, utilitzant transparències i modes de fusió.
 
-## 03. Referents
+**Color i variacions cromàtiques.**  
+Explorar les combinacions de colors, els contrastos i les transicions cromàtiques generades per la superposició i el moviment dels elements.
 
-### 01. Mike van der Sanden - DEMO Festival (2025)
+**Ritme i repetició.**  
+Experimentar amb la repetició de formes i la modificació de la seua velocitat, freqüència i escala per a generar diferents patrons visuals.
 
-**Conceptes:** Moviment, transformació i ritme.
+## 03. Referents i recursos de programació
 
-**Descripció:** Experimentació amb formes circulars que varien de grandària seguint regles matemàtiques i generen composicions dinàmiques.
+### 01. Mike van der Sanden — DEMO Festival (2025)
 
-**Aspectes d'interés:** El moviment continu, la relació entre els elements i la transformació de formes geomètriques mitjançant un mateix sistema de programació.
+**Tècniques:** Moviment, variació d'escala i geometria circular.
+
+**Descripció:** Experimentació amb formes circulars que augmenten i disminuïxen de grandària seguint regles matemàtiques, generant composicions dinàmiques.
+
+**Aspectes d'interés:** La relació entre els cercles, les variacions de grandària i el moviment continu generat mitjançant programació.
+
+**Aplicació al projecte:** Investigar com controlar el moviment i la grandària de diferents cercles per a generar composicions visuals canviants.
 
 **Programació:** Processing.
 
-**Font:** [DEMO Festival — Mike van der Sanden](https://mikevandersanden.com/cases/demo/)
+**Font i codi:** [DEMO Festival — Mike van der Sanden](https://mikevandersanden.com/cases/demo/)
+
+---
+
+### 02. Processing — blendMode()
+
+**Tècniques:** Superposició i mescla cromàtica.
+
+**Descripció:** Funció que permet aplicar diferents modes de fusió als elements gràfics.
+
+**Aplicació al projecte:** Experimentar amb la superposició de formes circulars per a generar noves combinacions de colors.
+
+**Font i codi:** [Processing — blendMode()](https://processing.org/reference/blendMode_)
+
+---
+
+### 03. Processing — lerpColor()
+
+**Tècniques:** Interpolació i transició cromàtica.
+
+**Descripció:** Funció que permet generar colors intermedis entre dos valors cromàtics.
+
+**Aplicació al projecte:** Explorar canvis progressius de color relacionats amb el moviment i la transformació dels cercles.
+
+**Font i codi:** [Processing — lerpColor()](https://processing.org/reference/lerpColor_)
+
+---
+
+### 04. Processing — Sine Wave
+
+**Tècniques:** Oscil·lació i moviment periòdic.
+
+**Descripció:** Exemple de programació que genera moviment ondulatori mitjançant funcions sinusoidals.
+
+**Aplicació al projecte:** Investigar com aplicar moviments oscil·latoris i variacions rítmiques a les formes circulars.
+
+**Font i codi:** [Processing — Sine Wave](https://processing.org/examples/sinewave)
+
+## 04. Possibilitats d'experimentació
+
+A partir dels recursos investigats, es pretén combinar el moviment, les variacions d'escala i les interaccions cromàtiques per a generar diferents resultats visuals mitjançant un mateix sistema de programació.
+
+Aquesta proposta constituïx un punt de partida tècnic que podrà evolucionar i modificar-se al llarg del procés d'experimentació i desenvolupament.
