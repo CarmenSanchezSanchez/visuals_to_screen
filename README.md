@@ -1,84 +1,83 @@
 
 # Visuals to Screen
 
-Projecte de disseny generatiu que consisteix en la creació de tres peces audiovisuals de disseny en moviment, desenvolupades a partir d'un mateix sistema de programació, per a la secció *Disseny en Moviment* del festival ANIMALCOI 2026.
+Proyecto de diseño generativo que consiste en la creación de tres piezas audiovisuales de diseño en movimiento, desarrolladas a partir de un mismo sistema de programación, para la sección *Disseny en Moviment* del festival ANIMALCOI 2026.
 
-## 01. Proposta d'experimentació
+## 01. Propuesta de experimentación
 
-Es planteja experimentar amb **formes circulars en moviment que varien de grandària, posició i color** mitjançant la programació creativa amb Processing.
+Se plantea experimentar con **formas circulares en movimiento que varían de tamaño, posición y color** mediante la programación creativa con Processing.
 
-La investigació se centrarà en la transformació de les formes geomètriques i la seua superposició, explorant com les variacions d'escala i les interaccions cromàtiques poden generar diferents composicions visuals.
+## 02. Investigación técnica
 
-## 02. Investigació tècnica
+Las principales técnicas que se plantea explorar son:
 
-Les principals tècniques que es planteja explorar són:
+**Movimiento y variación de escala.**  
+Experimentar con formas circulares que se desplazan, se expanden y se contraen mediante funciones matemáticas.
 
-**Moviment i variació d'escala.**  
-Experimentar amb formes circulars que es desplacen, s'expandixen i es contrauen mitjançant funcions matemàtiques.
+**Superposición de formas.**  
+Investigar la intersección de círculos de diferentes tamaños y posiciones, utilizando transparencias y modos de fusión.
 
-**Superposició de formes.**  
-Investigar la intersecció de cercles de diferents grandàries i posicions, utilitzant transparències i modes de fusió.
+**Color y variaciones cromáticas.**  
+Explorar las combinaciones de colores, los contrastes y las transiciones cromáticas generadas por la superposición y el movimiento de los elementos.
 
-**Color i variacions cromàtiques.**  
-Explorar les combinacions de colors, els contrastos i les transicions cromàtiques generades per la superposició i el moviment dels elements.
+**Ritmo y repetición.**  
+Experimentar con la repetición de formas y la modificación de su velocidad, frecuencia y escala para generar diferentes patrones visuales.
 
-**Ritme i repetició.**  
-Experimentar amb la repetició de formes i la modificació de la seua velocitat, freqüència i escala per a generar diferents patrons visuals.
-
-## 03. Referents i recursos de programació
+## 03. Referentes y recursos de programación
 
 ### 01. Mike van der Sanden — DEMO Festival (2025)
 
-**Tècniques:** Moviment, variació d'escala i geometria circular.
+**Técnicas:** Movimiento, variación de escala y geometría circular.
 
-**Descripció:** Experimentació amb formes circulars que augmenten i disminuïxen de grandària seguint regles matemàtiques, generant composicions dinàmiques.
+**Descripción:** Experimentación con formas circulares que aumentan y disminuyen de tamaño siguiendo reglas matemáticas, generando composiciones dinámicas.
 
-**Aspectes d'interés:** La relació entre els cercles, les variacions de grandària i el moviment continu generat mitjançant programació.
+**Aspectos de interés:** La relación entre los círculos, las variaciones de tamaño y el movimiento continuo generado mediante programación.
 
-**Aplicació al projecte:** Investigar com controlar el moviment i la grandària de diferents cercles per a generar composicions visuals canviants.
+**Experimentación:** Investigar cómo controlar el movimiento y el tamaño de diferentes círculos para generar composiciones visuales cambiantes.
 
-**Programació:** Processing.
+**Programación:** Processing.
 
-**Font i codi:** [DEMO Festival — Mike van der Sanden](https://mikevandersanden.com/cases/demo/)
-
----
-
-### 02. Processing — blendMode()
-
-**Tècniques:** Superposició i mescla cromàtica.
-
-**Descripció:** Funció que permet aplicar diferents modes de fusió als elements gràfics.
-
-**Aplicació al projecte:** Experimentar amb la superposició de formes circulars per a generar noves combinacions de colors.
-
-**Font i codi:** [Processing — blendMode()](https://processing.org/reference/blendMode_)
+**Fuente y código:** [DEMO Festival — Mike van der Sanden](https://mikevandersanden.com/cases/demo/)
 
 ---
 
-### 03. Processing — lerpColor()
+### 02. Processing — Sine
 
-**Tècniques:** Interpolació i transició cromàtica.
+**Técnicas:** Oscilación y variación de escala.
 
-**Descripció:** Funció que permet generar colors intermedis entre dos valors cromàtics.
+**Descripción:** Ejemplo de programación que utiliza la función `sin()` para generar variaciones periódicas en el tamaño de formas circulares.
 
-**Aplicació al projecte:** Explorar canvis progressius de color relacionats amb el moviment i la transformació dels cercles.
+**Aspectos de interés:** El control de la amplitud, la frecuencia y la fase para modificar el comportamiento de los círculos.
 
-**Font i codi:** [Processing — lerpColor()](https://processing.org/reference/lerpColor_)
+**Experimentación:** Investigar diferentes ritmos de crecimiento y contracción de los elementos para generar patrones visuales cambiantes.
+
+**Fuente y código:** [Processing — Sine](https://processing.org/examples/sine)
 
 ---
 
-### 04. Processing — Sine Wave
+### 03. Processing — blendMode()
 
-**Tècniques:** Oscil·lació i moviment periòdic.
+**Técnicas:** Superposición y mezcla cromática.
 
-**Descripció:** Exemple de programació que genera moviment ondulatori mitjançant funcions sinusoidals.
+**Descripción:** Función de Processing que permite aplicar diferentes modos de fusión entre los elementos gráficos.
 
-**Aplicació al projecte:** Investigar com aplicar moviments oscil·latoris i variacions rítmiques a les formes circulars.
+**Aspectos de interés:** Las combinaciones cromáticas que se generan al superponer círculos de diferentes colores.
 
-**Font i codi:** [Processing — Sine Wave](https://processing.org/examples/sinewave)
+**Experimentación:** Probar modos de fusión como `MULTIPLY`, `SCREEN` y `DIFFERENCE` para investigar las posibilidades visuales de la superposición.
 
-## 04. Possibilitats d'experimentació
+**Fuente y código:** [Processing — blendMode()](https://processing.org/reference/blendMode_)
 
-A partir dels recursos investigats, es pretén combinar el moviment, les variacions d'escala i les interaccions cromàtiques per a generar diferents resultats visuals mitjançant un mateix sistema de programació.
+---
 
-Aquesta proposta constituïx un punt de partida tècnic que podrà evolucionar i modificar-se al llarg del procés d'experimentació i desenvolupament.
+### 04. Processing — lerpColor()
+
+**Técnicas:** Interpolación y transición cromática.
+
+**Descripción:** Función que permite calcular colores intermedios entre dos valores cromáticos.
+
+**Aspectos de interés:** La generación de degradados y las transiciones progresivas entre diferentes colores.
+
+**Experimentación:** Modificar las paletas cromáticas y la velocidad de las transiciones para generar variaciones visuales a partir de un mismo sistema.
+
+**Fuente y código:** [Processing — lerpColor()](https://processing.org/reference/lerpColor_)
+
