@@ -81,3 +81,15 @@ Experimentar con la repetición de formas y la modificación de su velocidad, fr
 
 **Fuente y código:** [Processing — lerpColor()](https://processing.org/reference/lerpColor_)
 
+## 04. Aplicación de los referentes al proyecto
+Adaptar el sistema generativo de Mike van der Sanden a la identidad visual de ANIMALCOI 2026 mediante dos líneas de experimentación:
+
+**01. Variación cromática y de tamaño.**
+- Variación del tamaño y posición de los círculos.
+- Superposición mediante transparencias y modos de fusión.
+- Experimentación con los colores del cartel para generar nuevas combinaciones cromáticas.
+
+**02. Reinterpretación de la letra A de Aitana.**
+- Utilización de círculos como elementos gráficos principales.
+- Variación del tamaño de los círculos y transformación progresiva del color para sugerir la estructura de la letra A.
+- Aparición y disolución de la silueta mediante el movimiento y las transiciones cromáticas.
