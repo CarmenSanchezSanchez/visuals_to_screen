@@ -53,7 +53,7 @@ Experimentar con la repetición de formas y la modificación de su velocidad, fr
 
 **Programación:** Processing.
 
-**Fuente y código:** 128KB Challenge — Mike van der Sanden
+**Fuente y código:** [128KB Challenge — Mike van der Sanden](https://mikevandersanden.com/cases/128kb-is-a-framework-for-creative-coding-within-bo)
 
 ---
 
