@@ -41,6 +41,22 @@ Experimentar con la repetición de formas y la modificación de su velocidad, fr
 
 ---
 
+### 02. Mike van der Sanden — 128KB Challenge (2024)
+
+**Técnicas:** Estructuras modulares, repetición geométrica, transformaciones progresivas y bucles continuos.
+
+**Descripción:** Proyecto de programación creativa basado en la repetición de formas geométricas que se transforman progresivamente generando patrones visuales dinámicos.
+
+**Aspectos de interés:** La creación de composiciones complejas a partir de estructuras modulares sencillas, las variaciones progresivas de los elementos y la continuidad del movimiento.
+
+**Experimentación:** Investigar cómo modificar la escala, posición y distribución de formas geométricas mediante transformaciones progresivas, generando patrones animados y bucles continuos que puedan reproducirse en las pantallas de ANIMALCOI.
+
+**Programación:** Processing.
+
+**Fuente y código:** 128KB Challenge — Mike van der Sanden
+
+---
+
 ### 02. Processing — Sine
 
 **Técnicas:** Oscilación y variación de escala.
