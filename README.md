@@ -57,7 +57,7 @@ Experimentar con la repetición de formas y la modificación de su velocidad, fr
 
 ---
 
-### 02. Processing — Sine
+### 03. Processing — Sine
 
 **Técnicas:** Oscilación y variación de escala.
 
@@ -71,7 +71,7 @@ Experimentar con la repetición de formas y la modificación de su velocidad, fr
 
 ---
 
-### 03. Processing — blendMode()
+### 04. Processing — blendMode()
 
 **Técnicas:** Superposición y mezcla cromática.
 
@@ -85,7 +85,7 @@ Experimentar con la repetición de formas y la modificación de su velocidad, fr
 
 ---
 
-### 04. Processing - lerpColor()
+### 05. Processing - lerpColor()
 
 **Técnicas:** Interpolación y transición cromática.
 
