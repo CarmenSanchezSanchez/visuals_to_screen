@@ -109,3 +109,18 @@ Adaptar el sistema generativo de Mike van der Sanden a la identidad visual de AN
 - Utilización de círculos como elementos gráficos principales.
 - Variación del tamaño de los círculos y transformación progresiva del color para sugerir la estructura de la letra A.
 - Aparición y disolución de la silueta mediante el movimiento y las transiciones cromáticas.
+
+
+## 05. Lliurament del projecte
+
+La carpeta de Google Drive inclou els arxius finals del projecte:
+
+- Els codis de Processing de les tres variants seleccionades.
+- Els tres vídeos finals en format MP4.
+- El mockup animat.
+- Les tres imatges estàtiques del mockup.
+
+### Accés als arxius
+
+[VEURE EL PROJECTE COMPLET A GOOGLE DRIVE](https://drive.google.com/drive/folders/1XkFnjMktmlnHwAYNQZnF6Qgrdxx-95TC?usp=sharing)
+
