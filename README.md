@@ -105,12 +105,6 @@ Adaptar el sistema generativo de Mike van der Sanden a la identidad visual de AN
 - Superposición mediante transparencias y modos de fusión.
 - Experimentación con los colores del cartel para generar nuevas combinaciones cromáticas.
 
-**02. Reinterpretación de la letra A de Aitana.**
-- Utilización de círculos como elementos gráficos principales.
-- Variación del tamaño de los círculos y transformación progresiva del color para sugerir la estructura de la letra A.
-- Aparición y disolución de la silueta mediante el movimiento y las transiciones cromáticas.
-
-
 ## 05. Lliurament del projecte
 
 La carpeta de Google Drive inclou els arxius finals del projecte:
